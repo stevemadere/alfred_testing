@@ -1,2 +1,2 @@
-docker build -t stevemadere/test-driven-rspec-episode-2 .
-docker push stevemadere/test-driven-rspec-episode-2
+docker build -t stevemadere/test-driven-rspec-episode-2:node .
+docker push stevemadere/test-driven-rspec-episode-2:node
